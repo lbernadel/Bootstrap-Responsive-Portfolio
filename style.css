@@ -20,10 +20,15 @@ hr {
 }
 
 /* Nav Bar */
-nav {
+.navbar {
     background-color: #99d3df;
     border-bottom: #96858f 2px solid;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
+    .nav.container {
+        padding-right: 0;
+    }
     li.nav-item {
         border-right: dotted 1px #49274a;
     }
@@ -38,7 +43,7 @@ nav {
     }    
     .navbar-brand {
         background-color: #f2eef2;
-        float: left;
+        padding-left: 5px;
     }
 
 .content {
