@@ -1,0 +1,99 @@
+/* Basic Site Styling */
+html, body {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    color: #49274a;
+    background-image: url("../Images/gplaypattern.png");
+    font-size: 18px;
+    line-height: 2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Kalam', cursive;
+    color: #96858f;
+    margin: 0.5rem 0.5rem 0 0;
+}
+hr {
+    border: #99d3df solid 1px;
+    margin: .5rem 0;
+    background-color: #99d3df;
+}
+
+/* Nav Bar */
+nav {
+    background-color: #99d3df;
+    border-bottom: #96858f 2px solid;
+}
+    li.nav-item {
+        border-right: dotted 1px #49274a;
+    }
+    .nav-link {
+        color: #f2eef2;
+        font-size: large;
+    }
+    .nav-link:hover {
+        background-color: #f2eef2;
+        color:#96858f;
+        font-size: large;
+    }    
+    .navbar-brand {
+        background-color: #f2eef2;
+        float: left;
+    }
+
+.content {
+    background-color: #fff;
+    border: #f2eef2 solid 2px;
+    padding: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color:#96858f;
+    border-top: 8px solid #99d3df;
+    line-height: 60px;
+    font-size: 14px;
+    text-align: center;
+    color: #f2eef2;
+}
+
+/* Bio Area Pic */
+    .me {
+        float: left;
+        margin: 10px 17px 5px 0px;
+    }
+
+/* Contact Form Area*/
+    input, textarea {
+        font-family: 'Saira Semi Condensed', sans-serif;
+        font-size: 0.7rem;
+        color: #96858f;
+    }
+
+    /* Submit Button */
+    .btn {
+        background-color: #4aaaa5;
+        color:#fff;
+        text-align: center;
+        padding:8px;
+    }
+
+    button:hover {
+        background-color: #f2eef2;
+    }
+
+    /* Portfolio Grid */
+        .projects h3 {
+            background-color: #4aaaa5;
+            color: #fff;
+            text-align: center;
+            font-weight: lighter;
+            width: 178px;
+            padding: 12px;
+        }
+        .projects img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            object-position: center;
+        }
