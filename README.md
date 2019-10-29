@@ -1,4 +1,4 @@
-# [Bootstrap Responsive Portfolio](https://lbernadel.github.io/Bootstrap-Responsive-Portfolio/)
+# [Laurie Bernadel Portfolio](https://lbernadel.github.io/)
 
 ![Home Page](Assets/Images/home-page.JPG)
 
