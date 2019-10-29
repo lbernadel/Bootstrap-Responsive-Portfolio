@@ -1,6 +1,6 @@
 # [Bootstrap Responsive Portfolio](https://lbernadel.github.io/Bootstrap-Responsive-Portfolio/)
 
-![Home Page](./Assets/Images/home-page.JPG)
+![Home Page](Assets/Images/home-page.JPG)
 
 ## Description
 The purpose of this project was to re-create the first version of the site I made in [this repo](https://github.com/lbernadel/lbernadel.github.io) to showcase the work I will make during the Trilogy Edu. Coding Bootcamp, implementing the Bootstrap Framework. This time, with the added liberty of altering typography styling and thematic color schemes. In addition to the concepts covered during Week 1, I had to consider the new concepts of Bootstrap and media queries.
